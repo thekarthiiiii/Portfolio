@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Karthik | Neon Blue Portfolio</title>
+<meta name="description" content="Portfolio of Karthik M — trading, web development and video editing.">
+<meta property="og:title" content="Karthik | Neon Blue Portfolio">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#02050a">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<noscript><style>body{opacity:1!important}.reveal{opacity:1!important;transform:none!important}#loader{display:none}</style></noscript>
+</head>
+<body>
+
+<div class="aurora" aria-hidden="true"><i></i><i></i></div>
+<canvas id="hacking-canvas" aria-hidden="true"></canvas>
+<canvas id="network-canvas" aria-hidden="true"></canvas>
+<div id="mouse-glow" aria-hidden="true"></div>
+<div class="sunlight-overlay" id="sun-glow" aria-hidden="true"></div>
+<div id="loader" aria-hidden="true"><span></span></div>
+
+<a href="#home" class="back-to-top glass" id="topBtn" aria-label="Back to top"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"/></svg></a>
+
+<header class="header-cluster">
+  <div class="bulb-status-row" id="bulb-container">
+    <button class="bulb-wrapper" id="bulb-btn" type="button" aria-pressed="false" aria-label="Toggle the light">
+      <span class="bulb-feather"></span>
+      <img class="bulb" id="bulb" src="https://cdn-icons-png.flaticon.com/512/702/702797.png" alt="">
+    </button>
+    <div id="bulb-status-text">TURN ON THE LIGHT</div>
+  </div>
+  <nav class="nav-palette glass" id="nav" aria-label="Primary"></nav>
+</header>
+
+<main>
+<section id="home">
+  <img src="" class="profile" id="dom-profile-img" alt="Profile" decoding="async">
+  <h1 id="dom-name">KARTHIK M</h1>
+  <div class="scramble-wrap"><div id="scramble-text" class="glitch-sub-text" aria-live="off">STANDBY</div></div>
+  <p class="hero-sub" id="dom-sub" hidden></p>
+  <p class="hero-desc" id="dom-desc" hidden></p>
+  <div class="hero-actions">
+    <a href="#" id="dom-resume" class="resume-btn ext">VIEW RESUME</a>
+    <a href="#" id="dom-cta2" class="resume-btn ghost ext" hidden></a>
+  </div>
+</section>
+
+<section id="about" class="reveal">
+  <h2 class="section-title" id="about-title">ABOUT ME</h2>
+  <div class="about-wrap glass" id="dom-about"></div>
+</section>
+
+<section id="skills" class="reveal" hidden>
+  <h2 class="section-title" id="skills-title">SKILLS</h2>
+  <div class="grid-layout skills-grid" id="dom-skills"></div>
+</section>
+
+<section id="works" class="reveal">
+  <h2 class="section-title" id="works-title">CURRENT WORK</h2>
+  <div class="grid-layout" id="dom-works"></div>
+</section>
+
+<section id="certificates" class="reveal">
+  <h2 class="section-title" id="certs-title">CERTIFICATES</h2>
+  <div class="grid-layout" id="dom-certs"></div>
+</section>
+
+<section id="experience" class="reveal" hidden>
+  <h2 class="section-title" id="experience-title">EXPERIENCE</h2>
+  <div class="timeline" id="dom-exp"></div>
+</section>
+
+<section id="education" class="reveal" hidden>
+  <h2 class="section-title" id="education-title">EDUCATION</h2>
+  <div class="timeline" id="dom-edu"></div>
+</section>
+
+<section id="contact" class="reveal">
+  <h2 class="section-title" id="contact-title">GET IN TOUCH</h2>
+  <p class="contact-desc" id="dom-contact-desc" hidden></p>
+  <div class="contact-lines" id="dom-contact-lines"></div>
+  <div class="social-buttons" id="dom-socials"></div>
+</section>
+</main>
+
+<footer id="footer" class="glass" hidden></footer>
+<div id="toasts" aria-live="polite"></div>
+
+<script src="app.js"></script>
+</body>
+</html>

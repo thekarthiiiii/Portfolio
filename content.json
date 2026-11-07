@@ -1,0 +1,160 @@
+{
+  "personal": {
+    "name": "KARTHIK M",
+    "title": "",
+    "intro": "",
+    "pic": "https://i.postimg.cc/RVk72Ts8/profile.webp",
+    "picAlt": "Karthik M profile photo",
+    "picPos": "50% 50%",
+    "location": "",
+    "email": "karthikmattath007@gmail.com",
+    "phone": "",
+    "resume": "https://karthikmattath007.github.io/resume"
+  },
+  "hero": {
+    "words": [
+      "TRADER",
+      "EDITOR",
+      "CODER",
+      "WEB DESIGNER",
+      "BODYBUILDER"
+    ],
+    "heading": "",
+    "sub": "",
+    "desc": "",
+    "image": "",
+    "bg": "",
+    "ctaText": "VIEW RESUME",
+    "ctaLink": "",
+    "cta2Text": "",
+    "cta2Link": ""
+  },
+  "about": {
+    "title": "ABOUT ME",
+    "headline": "I’m someone trying to build myself — step by step.",
+    "text": "I’m working on becoming better at **trading**, **web development**, and **video editing** through consistent effort.",
+    "image": "",
+    "imageAlt": "",
+    "highlights": [],
+    "info": [],
+    "blocks": []
+  },
+  "skills": [],
+  "works": [
+    {
+      "title": "Bunk Radar",
+      "desc": "A smart attendance tracker built to manage your schedule effectively.",
+      "link": "https://thekarthiiiii.github.io/bunkradar-/",
+      "github": "",
+      "category": "",
+      "tech": [],
+      "thumb": "",
+      "thumbAlt": "",
+      "images": []
+    },
+    {
+      "title": "Sunlight Direction Travel",
+      "desc": "An early concept exploring travel ideas based on environmental light data.",
+      "link": "#",
+      "github": "",
+      "category": "",
+      "tech": [],
+      "thumb": "",
+      "thumbAlt": "",
+      "images": []
+    },
+    {
+      "title": "Video Experiments",
+      "desc": "Practicing editing techniques and learning through each project I finish.",
+      "link": "https://www.instagram.com/reelz.cutz?igsh=MWpma3JkOGo1aXYwbQ==",
+      "github": "",
+      "category": "",
+      "tech": [],
+      "thumb": "",
+      "thumbAlt": "",
+      "images": []
+    }
+  ],
+  "certs": [
+    {
+      "title": "Cybersecurity: SIEM",
+      "desc": "TryHackMe Introduction",
+      "issuer": "",
+      "date": "",
+      "credId": "",
+      "url": "",
+      "image": "",
+      "imageAlt": "",
+      "pdf": ""
+    },
+    {
+      "title": "Python for Data Science",
+      "desc": "NPTEL Course Certificate",
+      "issuer": "",
+      "date": "",
+      "credId": "",
+      "url": "",
+      "image": "",
+      "imageAlt": "",
+      "pdf": ""
+    },
+    {
+      "title": "Commodity Trading",
+      "desc": "Chart Analysis, Fundamentals, Liquidity & Technical Analysis Certificate",
+      "issuer": "",
+      "date": "",
+      "credId": "",
+      "url": "",
+      "image": "",
+      "imageAlt": "",
+      "pdf": ""
+    }
+  ],
+  "experience": [],
+  "education": [],
+  "contact": {
+    "desc": "",
+    "email": "karthikmattath007@gmail.com",
+    "phone": ""
+  },
+  "socials": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/the_karthiiiii?igsh=MWszMjFhOTNtdnp3bQ==",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/karthik-m-308019377?utm_source=share_via",
+      "icon": "https://cdn-icons-png.flaticon.com/512/174/174857.png"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:karthikmattath007@gmail.com",
+      "icon": "https://cdn-icons-png.flaticon.com/512/542/542689.png"
+    }
+  ],
+  "footer": {
+    "text": "",
+    "desc": "",
+    "links": [],
+    "showSocials": true
+  },
+  "titles": {
+    "skills": "SKILLS",
+    "works": "CURRENT WORK",
+    "certs": "CERTIFICATES",
+    "experience": "EXPERIENCE",
+    "education": "EDUCATION",
+    "contact": "GET IN TOUCH"
+  },
+  "settings": {
+    "siteTitle": "Karthik | Neon Blue Portfolio",
+    "description": "Portfolio of Karthik M — trading, web development and video editing.",
+    "favicon": "",
+    "showMatrix": true,
+    "lightDefault": false
+  },
+  "theme": {},
+  "glass": {}
+}
